@@ -1,4 +1,4 @@
-# ExploratoryVisualizationTableau
+# Exploratory Visualization Dashboard in Tableau
 
 ### Visualization Link: 
 https://drive.google.com/file/d/1A-Gfm-NVNHB_GVz8NovS8SPkXCCx8kfn/view
